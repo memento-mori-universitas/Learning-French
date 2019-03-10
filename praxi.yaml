@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-french
+
+about:
+  title: Learning French
+  description: Learning basic conversational french
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
